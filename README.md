@@ -1,3 +1,3 @@
-# Github Actions Lab
+# Important Instructions
 
-This is a repo for practicing.
+This is a demo repository for practicing Git & GitHub.
